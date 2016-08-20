@@ -5,7 +5,7 @@
 background: #000 url("http://goo.gl/lt17de") 0/100% 100%;}
 #cb, .c, #hb, #h, #mb, #m {top: 50%; left: 50%; z-index: 9999;
 position:fixed;width: 200px; height: 200px; transform: translate(-50%, -50%);}
-.c, #h, #m {box-shadow: 0 0 10px #009; border-radius: 10px;}
+.c, #h, #m {background: #000; border: 1px solid #11f; box-shadow: 0 0 10px #009; border-radius: 10px;}
 #hb {animation: clock-hr 720s linear infinite reverse;}
 #h {top: 75px; width: 1px; height: 50px;}
 #mb {animation: clock-min 60s linear infinite reverse;}
