@@ -23,6 +23,7 @@ position:fixed;width: 200px; height: 200px; transform: translate(-50%, -50%);}
 #c10 {top: 30%;   left: 15.4%;}
 #c11 {top: 15.4%; left: 30%;  }
 #c12 {top: 10%;   left: 50%;  }
+#c13 {top: 50%;   left: 50%;  }
 @keyframes clock-min {
 0%   {transform: translate(-50%, -50%) rotate(  0deg);}
 50%  {transform: translate(-50%, -50%) rotate(180deg);}
